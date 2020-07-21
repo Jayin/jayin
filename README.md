@@ -4,6 +4,6 @@
 
 > Keep thinking and rethinking.
 
-🇨🇳 China Guangzhou・🚀 Web developer
+🇨🇳 Guangzhou China・🚀 Web developer
 
 [jayinton.com](http://jayinton.com) | [devonline.net](http://devonline.net) 
