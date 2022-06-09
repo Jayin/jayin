@@ -1,8 +1,6 @@
 <img src="https://gpvc.arturio.dev/jayin" />
 
-### Hello 👋
-
-I'm Jayin.
+### Hello 👋 I'm Jayin.
 > Keep thinking and rethinking.
 
 🏡 Guangzhou,China   🚀 Web developer
