@@ -5,6 +5,7 @@
 
 #### 维护中
 
+- [Google SEO 实战教程](https://github.com/Jayin/gefei-seo-cookbook/tree/main/seo-book)
 - [ztbcms: PHP应用开发框架 🚀](https://github.com/ztbcms/ztbcms)
   - [微信公众平台组件](https://github.com/ztbcms/wechat)
   - [PDF 文档装换](https://github.com/Jayin/doconvert)
